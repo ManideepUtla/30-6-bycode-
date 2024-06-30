@@ -10,9 +10,6 @@ public class Adding {
         int r=p/q;
         System.out.println("divided of two numbers:"+ r);
 
-        System.out.println("cherry pick");
-
-        System.out.println("cherry pick-2.o");
         System.out.println("cherry pick 3.0");
 
 
